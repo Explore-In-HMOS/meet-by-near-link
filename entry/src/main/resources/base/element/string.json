@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "nearlink_title",
+      "value": "Meet By\nNear Link"
+    },
+    {
+      "name": "nearlink_default_status",
+      "value": "Ready to Connect"
+    },
+    {
+      "name": "nearlink_switching",
+      "value": "Switching..."
+    },
+    {
+      "name": "nearlink_receiver_start",
+      "value": "Waiting for Card..."
+    },
+    {
+      "name": "nearlink_receiver_ready",
+      "value": "Discoverable"
+    },
+    {
+      "name": "nearlink_scanning",
+      "value": "Searching People..."
+    },
+    {
+      "name": "nearlink_connected_sending",
+      "value": "Sending Card..."
+    },
+    {
+      "name": "nearlink_send_success",
+      "value": "Card Shared!"
+    },
+    {
+      "name": "nearlink_connection_closed",
+      "value": "Disconnected"
+    },
+    {
+      "name": "nearlink_state_disconnected",
+      "value": "Disconnected"
+    },
+    {
+      "name": "nearlink_state_connecting",
+      "value": "Connecting..."
+    },
+    {
+      "name": "nearlink_state_connected",
+      "value": "Connected"
+    },
+    {
+      "name": "nearlink_state_disconnecting",
+      "value": "Ending..."
+    },
+    {
+      "name": "nearlink_state_unknown",
+      "value": "Unknown State"
+    },
+    {
+      "name": "nearlink_dialog_message_title",
+      "value": "Business Card Received"
+    },
+    {
+      "name": "nearlink_dialog_ok",
+      "value": "Save Contact"
+    },
+    {
+      "name": "nearlink_status_connecting_to",
+      "value": "Pairing with"
+    },
+    {
+      "name": "nearlink_toast_sent",
+      "value": "Sent Successfully"
+    },
+    {
+      "name": "nearlink_mode_receive",
+      "value": "Receive Card"
+    },
+    {
+      "name": "nearlink_mode_send",
+      "value": "Share Card"
+    },
+    {
+      "name": "nearlink_btn_cancel",
+      "value": "Cancel / Stop"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    }
+  ]
+}
