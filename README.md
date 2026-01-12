@@ -2,7 +2,9 @@
 
 # MeetByNearLink
 
-MeetByNearLink is a high-performance HarmonyOS wearable application designed for seamless digital business card sharing using NearLink technology. It allows users to instantly discover devices and exchange contact information with ultra-low latency through a sleek, AMOLED-friendly dark interface optimized for smartwatches.
+MeetByNearLink is a high-performance HarmonyOS wearable application designed for seamless digital business card sharing
+using NearLink technology. It allows users to instantly discover devices and exchange contact information with ultra-low
+latency through a sleek, AMOLED-friendly dark interface optimized for smartwatches.
 
 # Preview
 
@@ -15,13 +17,14 @@ MeetByNearLink is a high-performance HarmonyOS wearable application designed for
 
 # Use Cases
 
-- **Professional Networking:** At conferences or meetings, users can instantly share their professional identity (Name, Title, Company) without needing physical business cards.
+- **Professional Networking:** At conferences or meetings, users can instantly share their professional identity (Name,
+  Title, Company) without needing physical business cards.
 
-- **Paperless Exchange:** Eliminating paper waste by digitizing contact info and saving received cards directly to the device's memory/contacts.
+- **Paperless Exchange:** Eliminating paper waste by digitizing contact info and saving received cards directly to the
+  device's memory/contacts.
 
-- **Social Interaction:** Quickly exchanging personal contact details (Phone, Email) with new acquaintances via a simple tap on the wrist.
-
-
+- **Social Interaction:** Quickly exchanging personal contact details (Phone, Email) with new acquaintances via a simple
+  tap on the wrist.
 
 # Tech Stack
 
@@ -35,8 +38,6 @@ MeetByNearLink is a high-performance HarmonyOS wearable application designed for
     - `@kit.BasicServicesKit`
     - `@kit.NearLinkKit`
     - `@kit.ArkTS`
-
-
 
 # Directory Structure
 
@@ -97,6 +98,7 @@ MeetByNearLink is a high-performance HarmonyOS wearable application designed for
 * Huawei Watch 5
 
 ## Requirements
+
 1. Configure signing settings.
 2. Change module.json with your wearable app bundle name.
 4. Change watch app bundle name with your bundle name.

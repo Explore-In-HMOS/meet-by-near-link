@@ -7,13 +7,13 @@ const textDecoder = new util.TextDecoder('utf-8');
 
 export class NearLinkHelper {
   static encodeData(data: object): Uint8Array {
-    return textEncoder.encode(JSON.stringify(data));
+    return textEncoder.encodeInto(JSON.stringify(data));
   }
 
   static decodeData(buffer: ArrayBuffer): BusinessCard | undefined {
     try {
       const uint8 = new Uint8Array(buffer);
-      const text = textDecoder.decode(uint8);
+      const text = textDecoder.decodeToString(uint8);
       hilog.info(DOMAIN_ID, LOG_TAG, `RAW DATA: ${text}`);
       return JSON.parse(text) as BusinessCard;
     } catch (e) {

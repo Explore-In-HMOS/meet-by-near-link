@@ -1,6 +1,6 @@
        {
   "app": {
-    "bundleName": "com.hmosdemos.meetbynearlink",
+    "bundleName": "com.hmosdemos.wearable.meet_by_near_link",
     "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",
